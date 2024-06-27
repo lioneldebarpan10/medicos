@@ -577,10 +577,15 @@ section {
    border-top: .1rem solid rgba(0, 0, 0, .1)
 }
 
-.footer .credit span {
+.footer .credit a {
    font-size: 2rem;
    color: var(--blue);
 }
+.footer .credit a span {
+   font-size: 2rem;
+   color: var(--blue);
+} 
+
 
 
 
